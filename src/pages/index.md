@@ -1,18 +1,15 @@
 ---
 templateKey: index-page
 title: Six à voile sur Parbleu!
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
 subheading: Les aventures d'une famille en voilier
+image: /img/20200813_060801.jpg
 mainpitch:
   title: Projet actuel
   description: La famille Six à voile part prochainement pour un voyage d'un an,
     de Trois-Rivières aux Bahamas, en passant par les Îles-de-la-Madeleine et la
     Nouvelle-Écosse.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+heading: Suivez nos aventures!
+description: Bla bla
 intro:
   blurbs:
     - image: /img/coffee.png
