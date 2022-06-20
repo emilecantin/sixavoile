@@ -1,8 +1,9 @@
 ---
 templateKey: about-page
-path: /about
+path: /equipage
 title: L'équipage
 ---
+
 ## Le capitaine
 
 Bla bla
@@ -14,3 +15,4 @@ Bla bla
 ## Matelot 1, 2 3 et 4
 
 Bla bla
+
