@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
-import github from "../img/github-icon.svg";
-import logo from "../img/logo.svg";
+import facebook from "../img/social/facebook.svg";
+import instagram from "../img/social/instagram.svg";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -41,7 +41,7 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item title" title="Accueil">
+            <Link to="/" className="navbar-item brand" title="Accueil">
               Parbleu!
             </Link>
             {/* Hamburger menu */}
@@ -66,6 +66,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>
+              {/*
               <Link className="navbar-item" to="/equipage">
                 L'équipage
               </Link>
@@ -78,16 +79,27 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact/examples">
                 Form Examples
               </Link>
+            */}
             </div>
             <div className="navbar-end has-text-centered">
               <a
                 className="navbar-item"
-                href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+                href="https://www.facebook.com/johannie.riendeau"
                 target="_blank"
                 rel="noopener noreferrer"
               >
                 <span className="icon">
-                  <img src={github} alt="Github" />
+                  <img src={facebook} alt="Facebook" />
+                </span>
+              </a>
+              <a
+                className="navbar-item"
+                href="https://www.instagram.com/johannie_sixavoile/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <span className="icon">
+                  <img src={instagram} alt="Instagram" />
                 </span>
               </a>
             </div>
