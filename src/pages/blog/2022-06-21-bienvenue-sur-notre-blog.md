@@ -9,3 +9,5 @@ tags:
   - emile
 ---
 Le prochain article sera un récapitulatif de l'achat et le rapatriement ce celui-ci à Trois-Rivières.
+
+![](/img/20210823_141905-1-.jpg)
