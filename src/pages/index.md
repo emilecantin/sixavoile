@@ -9,7 +9,6 @@ mainpitch:
     de Trois-Rivières aux Bahamas, en passant par les Îles-de-la-Madeleine et la
     Nouvelle-Écosse.
 heading: Suivez nos aventures!
-description: Bla bla
 intro:
   blurbs: []
   heading: What we offer
@@ -34,4 +33,7 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+description: "Après plusieurs beaux voyages de voile en famille sur le
+  majestueux St-Laurent et 3 voiliers plus tard, nous partons enfin toute une
+  année à bord de Parbleu!, un superbe C&C Landfall 38. "
 ---
