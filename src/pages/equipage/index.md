@@ -23,7 +23,13 @@ Bref, c'est un grand passionné!
 
 ## L'amirale
 
-Bla bla
+Johannie, maman à la maison de 31 ans. Elle fait l'école à la maison a ses enfants depuis 7 ans. 
+
+La voile a fait son entrée dans la vie de Johannie lorsqu'elle était dans les cadets de la marine. Elle n'avait que 13 ans et dès sa première fin de semaine de voile, elle a acquis non pas un mais deux niveaux à la voile.  Ce ne sera que bien plus tard, avec un grand désir de voyager en famille que l'idée du voilier surgira. Le voilier n'étant pas trop dispendieux (si on compare les frais qu'apporte une roulotte; pick-up, essence++...) et surtout écologique et presque autosuffisant, l'idée du voilier la séduisait grandement. De plus elle et sa famille adorait être dans les grands espaces. Le calme, la beauté du St-Laurent, l'incroyable faune autour de nous, le *slowliving...* Voilà des aspects qui charmaient Johannie. Elle a donc réappris avec son capitaine à manoeuvrer  un voilier tout en gérant la petite marmaille autour.
+
+ Elle a également son cours d'embarcation moteur ainsi que sa carte de radio maritime (Obligatoires) ainsi qu'une mini formation sous forme de MOOC sur la météo. Le reste de ses apprentissages se sont fait sur le tas. 
+
+Elle aime être bien préparé. c'est pourquoi elle a lu plusieurs livres sur la cuisine en bateau, lu plusieurs blogues de familles à voile pour apprendre de leurs expériences et ainsi être de mieux en mieux préparé lors des voyages des Six à voile. 
 
 ## Matelot 1, 2 3 et 4
 
