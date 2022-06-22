@@ -8,6 +8,6 @@ featuredimage: /img/20210814_152956-1-.jpg
 tags:
   - emile
 ---
-Le prochain article sera un récapitulatif de l'achat et le rapatriement ce celui-ci à Trois-Rivières.
+Le prochain article sera un récapitulatif de l'achat et le rapatriement de celui-ci à Trois-Rivières.
 
 ![](/img/20210823_141905-1-.jpg)
