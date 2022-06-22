@@ -265,12 +265,7 @@ module.exports = {
     "react-hooks/exhaustive-deps": "warn",
     "react-hooks/rules-of-hooks": "error",
     "react/jsx-boolean-value": "warn",
-    "react/jsx-filename-extension": [
-      "error",
-      {
-        extensions: [".tsx"],
-      },
-    ],
+    "react/jsx-filename-extension": "off",
     "react/jsx-no-bind": "off",
     // TODO: turn on later
     "react/jsx-no-literals": "off",
