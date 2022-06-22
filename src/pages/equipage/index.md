@@ -5,7 +5,9 @@ title: "L'équipage et son histoire "
 ---
 ## Le capitaine
 
-![](/img/20200720_182601.jpg)
+![](/img/20200720_182601.jpg "Le capitaine donnant une leçon de navigation à matelot #1")
+
+
 
 ![]()
 
