@@ -5,6 +5,10 @@ title: "L'équipage et son histoire "
 ---
 ## Le capitaine
 
+![](/img/20200720_182601.jpg)
+
+![]()
+
 Emile, un papa de 33 ans et développeur web de profession. 
 
 Tout petit, il a connu une famille, des amis à ses parents, qui partaient toute une année sur un voilier avec leurs trois adolescents. Ça avait bien impressionné le petit Emile. 
