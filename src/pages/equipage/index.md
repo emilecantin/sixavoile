@@ -37,4 +37,10 @@ Elle aime être bien préparé. c'est pourquoi elle a lu plusieurs livres sur la
 
 ## Matelot 1, 2 3 et 4
 
-Bla bla
+![](/img/img_20170827_200159.jpg "La routine reste primordiale, surtout avec des petits moussaillons. On ne manque pas de raconter l'histoire avant le dodo. ")
+
+![](/img/20190917_090628.jpg "Un petit déjeuné bien animé par les discussions des filles!")
+
+![](/img/20180529_092754.jpg "La navigation avec 4 mousses dont un mini bébé.")
+
+![](/img/20190916_150810.jpg "On joue à cache-cache maman! ")
