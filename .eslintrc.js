@@ -31,14 +31,7 @@ module.exports = {
       version: "detect",
     },
   },
-  plugins: [
-    "jsx-a11y",
-    "import",
-    "react",
-    "react-hooks",
-    "promise",
-    "@typescript-eslint",
-  ],
+  plugins: ["jsx-a11y", "import", "react", "react-hooks", "@typescript-eslint"],
   rules: {
     "react/prop-types": "off",
     "react/display-name": "off",
@@ -266,9 +259,7 @@ module.exports = {
     ],
     "prefer-destructuring": "error",
     "prefer-promise-reject-errors": "error",
-    "promise/prefer-await-to-then": "off",
     // TODO: turn on later
-    "promise/catch-or-return": "warn",
     "quote-props": ["error", "as-needed"],
     radix: "error",
     "react-hooks/exhaustive-deps": "warn",
