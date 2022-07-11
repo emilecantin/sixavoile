@@ -7,8 +7,6 @@ title: "L'équipage et son histoire "
 
 ![](/img/20200720_182601.jpg "Le capitaine donnant une leçon de navigation à matelot #1")
 
-
-
 ![]()
 
 Emile, un papa de 33 ans et développeur web de profession. 
@@ -36,6 +34,22 @@ La voile a fait son entrée dans la vie de Johannie lorsqu'elle était dans les 
 Elle aime être bien préparé. c'est pourquoi elle a lu plusieurs livres sur la cuisine en bateau, lu plusieurs blogues de familles à voile pour apprendre de leurs expériences et ainsi être de mieux en mieux préparé lors des voyages des Six à voile. 
 
 ## Matelot 1, 2 3 et 4
+
+
+
+Notre belle équipe de filles est composé de Florence (12 ans), Marie-Anne (10 ans), Béatrice (8 ans) et Madeleine (4 ans). 
+
+Florence est une grande passionnée des animaux et particulièrement des chevaux. Ce qu'elle aime beaucoup durant nos voyages, c'est la découverte des animaux qui nous entoure. Elle sera d'ailleurs accompagnée de sa ratte de compagnie, Mysticète. 
+
+Marie-Anne quant à elle, est une grande passionnée de cuisine. Elle a un grand intérêt à aider dans les manoeuvres lorsqu'on navigue.  Durant le voyage, ce qu'elle aime le plus faire, c'est nager et faire de la planche à pagaie. 
+
+Béatrice c'est notre petite boule d'énergie. C'est souvent elle qui accompagne sa maman durant les longues randonnées. Elle aime beaucoup lorsque le voilier tangue d'un côté. Elle peut ainsi sauter d'une banquette à l'autre. C'est un vrai petit singe! 
+
+Madeleine pour sa part, c'est le petit clown de la famille. Elle a toujours une imitation en réserve ou bien une phrase qu'elle nous sort d'on ne sait où! Elle est bien heureuse d'être en voilier en famille. Pour elle, tant qu'elle est collée près de sa famille, elle est heureuse. 
+
+Nous vous invitons à découvrir les petits moussaillons au travers du partage de leurs expériences ici sur parbleu.ca  Vous pourrez découvrir, à travers leurs écriture (ou dessins) notre voyage en famille sur Parbleu! 
+
+
 
 ![](/img/img_20170827_200159.jpg "La routine reste primordiale, surtout avec des petits moussaillons. On ne manque pas de raconter l'histoire avant le dodo. ")
 
