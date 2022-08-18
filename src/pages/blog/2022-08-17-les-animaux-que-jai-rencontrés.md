@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Les animaux que j'ai rencontrés
 date: 2022-08-11T12:59:37.899Z
-description: Tous les animaux que j'ai vus.
+description: Tous les animaux que j'ai vu...
 featuredpost: true
 featuredimage: /img/dsc_0797.jpg
 ---
